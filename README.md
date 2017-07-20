@@ -4,4 +4,4 @@
 计划基于gitpage功能做一个“免费的”、可配置的评论框
 
 # 技术架构 
-见
+见  [架构图](https://github.com/hfuuss/scomments/blob/master/img/scomments.png)
